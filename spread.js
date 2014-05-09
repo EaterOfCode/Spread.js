@@ -1,6 +1,6 @@
 /**
  * Spread.js | EaterOfCode
- * https://gist.github.com/EaterOfCode/7954fdd2e4130c71b2a3
+ * https://github.com/EaterOfCode/Spread.js
  * Spread that data
  * Licensed by MIT license
  */

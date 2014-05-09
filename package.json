@@ -1,11 +1,8 @@
 {
   "name": "spread.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Spread your data like you've never done before",
   "main": "spread.js",
-  "scripts": {
-    "test": "echo 'nope :c'"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/EaterOfCode/Spread.js.git"
